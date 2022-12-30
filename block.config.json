@@ -1,0 +1,8 @@
+{
+  "name": "calculator_v2",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/aneesh-jose/calculator_v2",
+    "ssh": "git@github.com:aneesh-jose/calculator_v2.git"
+  }
+}
